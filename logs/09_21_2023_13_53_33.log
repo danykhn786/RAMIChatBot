@@ -1,0 +1,25 @@
+[ 2023-09-21 13:53:34,922 ] 66 mysql.connector - INFO - package: mysql.connector.plugins
+[ 2023-09-21 13:53:34,922 ] 67 mysql.connector - INFO - plugin_name: caching_sha2_password
+[ 2023-09-21 13:53:34,924 ] 71 mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+[ 2023-09-21 13:54:27,170 ] 16 root - INFO - handle_request method starts
+[ 2023-09-21 13:54:27,171 ] 7 root - INFO - extract_session_id method starts
+[ 2023-09-21 13:54:27,171 ] 39 root - INFO - new_order_reset method starts
+[ 2023-09-21 13:54:27,171 ] 43 root - INFO - Exception occured in new_order_reset stage
+[ 2023-09-21 13:54:27,171 ] 34 root - INFO - Exception occured in handling request stage
+[ 2023-09-21 13:54:27,653 ] 16 root - INFO - handle_request method starts
+[ 2023-09-21 13:54:27,653 ] 7 root - INFO - extract_session_id method starts
+[ 2023-09-21 13:54:27,653 ] 39 root - INFO - new_order_reset method starts
+[ 2023-09-21 13:54:27,653 ] 43 root - INFO - Exception occured in new_order_reset stage
+[ 2023-09-21 13:54:27,653 ] 34 root - INFO - Exception occured in handling request stage
+[ 2023-09-21 13:54:37,829 ] 16 root - INFO - handle_request method starts
+[ 2023-09-21 13:54:37,830 ] 7 root - INFO - extract_session_id method starts
+[ 2023-09-21 13:54:37,830 ] 48 root - INFO - add_to_order method starts
+[ 2023-09-21 13:54:37,830 ] 19 root - INFO - get_str_from_food_dict method starts
+[ 2023-09-21 13:54:51,060 ] 16 root - INFO - handle_request method starts
+[ 2023-09-21 13:54:51,060 ] 7 root - INFO - extract_session_id method starts
+[ 2023-09-21 13:54:51,060 ] 81 root - INFO - complete_order method starts
+[ 2023-09-21 13:54:51,061 ] 106 root - INFO - save_to_db method starts
+[ 2023-09-21 13:54:51,061 ] 35 root - INFO - insert_order_item method starts
+[ 2023-09-21 13:54:51,130 ] 16 root - INFO - get_order_id method starts
+[ 2023-09-21 13:54:51,131 ] 72 root - INFO - insert_order_tracking method starts
+[ 2023-09-21 13:54:51,140 ] 54 root - INFO - get_total_order_price method starts
